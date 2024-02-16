@@ -10,7 +10,7 @@ class Solution_67257 {
 
         String[] expression = {"100-200*300-500+20", "50*6-3*2"};
         long[] result = {60420, 300};
-        for (int i = 0; i < expression.length; i++) {
+        for (int i = 0; i < result.length; i++) {
             System.out.println(s.solution(expression[i]) == result[i]);
         }
     }
