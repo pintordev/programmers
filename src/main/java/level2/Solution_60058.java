@@ -10,7 +10,7 @@ class Solution_60058 {
 
         String[] p = {"(()())()", ")(", "()))((()"};
         String[] result = {"(()())()", "()", "()(())()"};
-        for (int i = 0; i < p.length; i++) {
+        for (int i = 0; i < result.length; i++) {
             System.out.println(s.solution(p[i]).equals(result[i]));
         }
     }
