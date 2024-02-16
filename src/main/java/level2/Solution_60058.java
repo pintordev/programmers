@@ -1,12 +1,12 @@
-package level2.solution_60058;
+package level2;
 
-import java.util.Stack;
+import java.util.*;
 
-class Solution {
+class Solution_60058 {
 
     public static void main(String[] args) {
 
-        Solution s = new Solution();
+        Solution_60058 s = new Solution_60058();
 
         String[] p = {"(()())()", ")(", "()))((()"};
         String[] result = {"(()())()", "()", "()(())()"};
