@@ -4,10 +4,13 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 2024-02-18
+- [x] **[level #2 12978 - 배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12978.java)**
+
 ## 2024-02-17
-- [x] **[level #2 67257 - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257?language=java)**
-- [x] **[level #2 77485 - 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485?language=java)**
-- [x] **[level #2 12936 - 줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936?language=java)**
+- [x] **[level #2 67257 - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_67257.java)**
+- [x] **[level #2 77485 - 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_77485.java)**
+- [x] **[level #2 12936 - 줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12936.java)**
 
 ## 2024-02-16
-- [x] **[level #2 60058 - 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058?language=java)**
+- [x] **[level #2 60058 - 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_60058.java)**
