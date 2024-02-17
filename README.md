@@ -6,6 +6,7 @@
 
 ## 2024-02-18
 - [x] **[level #2 12978 - 배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12978.java)**
+- [x] **[level #2 135807 - 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_135807.java)**
 
 ## 2024-02-17
 - [x] **[level #2 67257 - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_67257.java)**
