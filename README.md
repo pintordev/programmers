@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 2024-02-20
+- [x] **[level #2 12905 - 가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12905.java)**
+
 ## 2024-02-19
 - [x] **[level #2 81302 - 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_81302.java)**
 - [x] **[level #2 159993 - 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_159993.java)**
