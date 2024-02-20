@@ -7,6 +7,7 @@
 ## 24-02-21
 - [x] **[level #2 169199 - 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_169199.java)**
 - [x] **[level #2 62048 - 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_62048.java)**
+- [x] **[level #2 140107 - 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_140107.java)**
 
 ## 24-02-20
 - [x] **[level #2 12905 - 가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12905.java)**
