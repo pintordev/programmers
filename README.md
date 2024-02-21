@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-02-22
+- [x] **[level #2 142085 - 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_142085.java)**
+
 ## 24-02-21
 - [x] **[level #2 169199 - 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_169199.java)**
 - [x] **[level #2 62048 - 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_62048.java)**
