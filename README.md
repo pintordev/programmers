@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-02-23
+- [x] **[level #2 42890 - 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_42890.java)**
+
 ## 24-02-22
 - [x] **[level #2 142085 - 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_142085.java)**
 - [x] **[level #2 172927 - 광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_172927.java)**
