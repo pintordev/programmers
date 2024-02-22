@@ -6,6 +6,7 @@
 
 ## 24-02-23
 - [x] **[level #2 42890 - 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_42890.java)**
+- [x] **[level #2 134239 - 우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_134239.java)**
 
 ## 24-02-22
 - [x] **[level #2 142085 - 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_142085.java)**
