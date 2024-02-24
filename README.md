@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-02-25
+- [x] **[level #2 12952 - N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12952.java)**
+
 ## 24-02-24
 - [x] **[level #2 131130 - 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_131130.java)**
 - [x] **[level #2 181187 - 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_181187.java)**
