@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-02-26
+- [x] **[level #2 12923 - 숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12923.java)**
+
 ## 24-02-25
 - [x] **[level #2 12952 - N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12952.java)**
 - [x] **[level #2 150368 - 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_150368.java)**
