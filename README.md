@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-02-27
+- [x] **[level #2 12902 - 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12902.java)**
+
 ## 24-02-26
 - [x] **[level #2 12923 - 숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12923.java)**
 - [x] **[level #2 181188 - 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_181188.java)**
