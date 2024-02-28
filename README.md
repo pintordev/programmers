@@ -5,6 +5,9 @@
 >- **Practice Log Repository**
 
 ## 24-02-27
+- [x] **[level #2 152996 - 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_152996.java)**
+
+## 24-02-27
 - [x] **[level #2 12902 - 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_12902.java)**
 
 ## 24-02-26
