@@ -4,7 +4,10 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
-## 24-02-27
+## 24-02-29
+- [x] **[level #2 42860 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_42860.java)**
+
+## 24-02-28
 - [x] **[level #2 152996 - 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_152996.java)**
 
 ## 24-02-27
