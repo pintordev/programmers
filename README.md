@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-01
+- [x] **[level #2 72412 - 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_72412.java)**
+
 ## 24-02-29
 - [x] **[level #2 42860 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_42860.java)**
 - [x] **[level #2 92342 - 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_92342.java)**
