@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-03
+- [x] **[level #2 87377 - 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_87377.java)**
+
 ## 24-03-02
 - [x] **[level #2 150369 - 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_150369.java)**
 
