@@ -40,7 +40,6 @@ class Solution_135807 {
     }
 
     public int judge(List<Integer> canA, int[] arrayA, int[] arrayB) {
-        int max = 0;
         for (int A : canA) {
             boolean b = true;
             for (int i = 0; i < arrayA.length; i++) {
@@ -49,8 +48,8 @@ class Solution_135807 {
                     break;
                 }
             }
-            if (b) max = Math.max(max, A);
+            if (b) return A;
         }
-        return max;
+        return 0;
     }
 }
