@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-04
+- [x] **[level #2 1829 - 카카오 프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_1829.java)**
+
 ## 24-03-03
 - [x] **[level #2 87377 - 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_87377.java)**
 
