@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-05
+- [x] **[level #2 250136 - 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_250136.java)**
+
 ## 24-03-04
 - [x] **[level #2 1829 - 카카오 프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_1829.java)**
 
