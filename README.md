@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-06
+- [x] **[level #2 148652 - 유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_148652.java)**
+
 ## 24-03-05
 - [x] **[level #2 250136 - 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_250136.java)**
 
