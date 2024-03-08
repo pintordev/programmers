@@ -53,8 +53,8 @@ class Solution_81302 {
 
         if (c[x + dx][y + dy] != 'P') return true;
 
-        if (Math.abs(dx) == 1 && Math.abs(dy) == 1) return c[x + dx][y] != 'O' && c[x][y + dy] != 'O';
-        else if (Math.abs(dx + dy) == 1) return c[x + dx][y + dy] != 'P';
-        else return c[x + dx / 2][y + dy / 2] != 'O';
+        if (Math.abs(dx) == 1 && Math.abs(dy) == 1) return c[x + dx][y] == 'X' && c[x][y + dy] == 'X';
+        else if (Math.abs(dx) == 2 || Math.abs(dy) == 2) return c[x + dx / 2][y + dy / 2] == 'X';
+        else return false;
     }
 }
