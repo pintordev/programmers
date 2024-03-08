@@ -6,6 +6,7 @@
 
 ## 24-03-08
 - [x] **[level #3 43162 - 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43162.java)**
+- [x] **[level #3 12927 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12927.java)**
 
 ## 24-03-07
 - [x] **[level #3 43105 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43105.java)**
