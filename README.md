@@ -6,6 +6,8 @@
 
 ## 24-03-09
 - [x] **[level #2 1835 - 단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_1835.java)**
+- [x] **[level #2 258711 - 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_258711.java)**
+- [x] **[level #3 43163 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43163.java)**
 
 ## 24-03-08
 - [x] **[level #3 43162 - 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43162.java)**
