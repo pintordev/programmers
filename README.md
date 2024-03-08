@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-08
+- [x] **[level #3 43162 - 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43162.java)**
+
 ## 24-03-07
 - [x] **[level #3 43105 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43105.java)**
 - [x] **[level #3 42628 - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_42628.java)**
