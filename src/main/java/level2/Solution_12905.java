@@ -32,8 +32,6 @@ class Solution_12905 {
 
     public int square(int[][] board, int i, int j, int[][] dp, boolean[][] visited) {
 
-        if (i < 0 || j < 0) return 0;
-
         if (visited[i][j]) return dp[i][j];
 
         visited[i][j] = true;

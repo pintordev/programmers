@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-10
+- [x] **[level #2 169198 - 당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_169198.java)**
+
 ## 24-03-09
 - [x] **[level #2 1835 - 단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_1835.java)**
 - [x] **[level #2 258711 - 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_258711.java)**
