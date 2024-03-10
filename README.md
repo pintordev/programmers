@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-11
+- [x] **[level #2 250135 - 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_250135.java)**
+
 ## 24-03-10
 - [x] **[level #2 169198 - 당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_169198.java)**
 
