@@ -6,6 +6,7 @@
 
 ## 24-03-12
 - [x] **[level #2 86052 - 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_86052.java)**
+- [x] **[level #1 258712 - 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_258712.java)**
 
 ## 24-03-11
 - [x] **[level #2 250135 - 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_250135.java)**
