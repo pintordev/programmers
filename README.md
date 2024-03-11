@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-12
+- [x] **[level #2 86052 - 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_86052.java)**
+
 ## 24-03-11
 - [x] **[level #2 250135 - 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/Solution_250135.java)**
 
