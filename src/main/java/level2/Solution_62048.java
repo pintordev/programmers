@@ -15,7 +15,7 @@ class Solution_62048 {
     public long solution(int w, int h) {
 
         int min = Math.min(w, h);
-        int max = Math.max(w,h);
+        int max = Math.max(w, h);
 
         long sum = 0;
         for (int i = 0; i < min; i++) sum += 2 * Math.floor((double) max * i / min);
