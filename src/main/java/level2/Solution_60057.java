@@ -23,30 +23,23 @@ class Solution_60057 {
 
     public int comp(String s, int n) {
 
-        int len = 0, count = 0;
-        String ss = "";
-        for (int i = 0; i <= s.length(); i += n) {
-
+        StringBuilder sb = new StringBuilder();
+        int i = 0;
+        while (i < s.length()) {
             if (i + n > s.length()) {
-                len += getLen(count) + ss.length() + s.length() - i;
-                continue;
+                sb.append(s.substring(i));
+                break;
             }
-
-            String sss = s.substring(i, i + n);
-            if (!ss.equals(sss)) {
-                len += getLen(count) + ss.length();
-                ss = sss;
-                count = 1;
-            } else {
+            String ss = s.substring(i, i + n);
+            int count = 0;
+            while (i + n <= s.length() && ss.equals(s.substring(i, i + n))) {
                 count++;
+                i += n;
             }
+            if (count > 1) sb.append(count);
+            sb.append(ss);
         }
 
-        return len;
-    }
-
-    public int getLen(int count) {
-        if (count <= 1) return 0;
-        else return ("" + count).length();
+        return sb.length();
     }
 }
