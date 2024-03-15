@@ -9,6 +9,7 @@
 - [x] **[level #1 12947 - 하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12947.java)**
 - [x] **[level #1 12912 - 두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12912.java)**
 - [x] **[level #1 12943 - 콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12943.java)**
+- [x] **[level #1 12919 - 서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12919.java)**
 
 ## 24-03-14
 - [x] **[level #3 42898 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_42898.java)**
