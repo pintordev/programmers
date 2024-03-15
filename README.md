@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-15
+- [x] **[level #3 12987 - 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12987.java)**
+
 ## 24-03-14
 - [x] **[level #3 42898 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_42898.java)**
 
