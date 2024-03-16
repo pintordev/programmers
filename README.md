@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-16
+- [x] **[level #1 12948 - 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12948.java)**
+
 ## 24-03-15
 - [x] **[level #3 12987 - 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12987.java)**
 - [x] **[level #1 12947 - 하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12947.java)**
