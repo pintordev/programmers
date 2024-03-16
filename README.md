@@ -8,6 +8,7 @@
 - [x] **[level #1 81301 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_81301.java)**
 - [x] **[level #1 12915 - 문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12915.java)**
 - [x] **[level #1 42748 - K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_42748.java)**
+- [x] **[level #1 68644 - 두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_68644.java)**
 
 ## 24-03-16
 - [x] **[level #1 12948 - 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12948.java)**
