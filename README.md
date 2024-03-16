@@ -19,6 +19,7 @@
 - [x] **[level #1 12940 - 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12940.java)**
 - [x] **[level #1 68935 - 3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_68935.java)**
 - [x] **[level #1 12930 - 이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12930.java)**
+- [x] **[level #1 131705 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_131705.java)**
 
 ## 24-03-15
 - [x] **[level #3 12987 - 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12987.java)**
