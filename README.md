@@ -11,6 +11,7 @@
 - [x] **[level #1 68644 - 두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_68644.java)**
 - [x] **[level #1 142086 - 가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_142086.java)**
 - [x] **[level #1 134240 - 푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_134240.java)**
+- [x] **[level #1 132267 - 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_132267.java)**
 
 ## 24-03-16
 - [x] **[level #1 12948 - 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12948.java)**
