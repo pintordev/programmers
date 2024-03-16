@@ -11,6 +11,7 @@
 - [x] **[level #1 12903 - 가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12903.java)**
 - [x] **[level #1 12922 - 수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12922.java)**
 - [x] **[level #1 70128 - 내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_70128.java)**
+- [x] **[level #1 77884 - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_77884.java)**
 
 ## 24-03-15
 - [x] **[level #3 12987 - 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12987.java)**
