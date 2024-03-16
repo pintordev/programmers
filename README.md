@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-17
+- [x] **[level #1 81301 - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_81301.java)**
+
 ## 24-03-16
 - [x] **[level #1 12948 - 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12948.java)**
 - [x] **[level #1 86051 - 없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_86051.java)**
