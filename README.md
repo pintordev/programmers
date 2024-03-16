@@ -14,6 +14,7 @@
 - [x] **[level #1 132267 - 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_132267.java)**
 - [x] **[level #1 138477 - 명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_138477.java)**
 - [x] **[level #1 12901 - 2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12901.java)**
+- [x] **[level #1 159994 - 카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_159994.java)**
 
 ## 24-03-16
 - [x] **[level #1 12948 - 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12948.java)**
