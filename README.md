@@ -21,6 +21,7 @@
 - [x] **[level #1 12930 - 이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_12930.java)**
 - [x] **[level #1 131705 - 삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_131705.java)**
 - [x] **[level #1 147355 - 크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_147355.java)**
+- [x] **[level #1 86491 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level1/Solution_86491.java)**
 
 ## 24-03-15
 - [x] **[level #3 12987 - 숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12987.java)**
