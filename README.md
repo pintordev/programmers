@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-30
+- [x] **[level #3 42579 - 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_42579.java)**
+
 ## 24-03-24
 - [x] **[level #3 12979 - 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12979.java)**
 
