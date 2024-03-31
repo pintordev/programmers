@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-03-31
+- [x] **[level #3 12971 - 스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12971.java)**
+
 ## 24-03-30
 - [x] **[level #3 42579 - 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_42579.java)**
 
