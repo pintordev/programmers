@@ -4,7 +4,10 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
-# 24-04-14
+## 24-04-15
+- [x] **[level #3 67258 - 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_67258.java)**
+
+## 24-04-14
 - [x] **[level #3 64064 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_64064.java)**
 
 ## 24-03-31
