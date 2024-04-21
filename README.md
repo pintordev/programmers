@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-04-21
+- [x] **[level #3 64062 - 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_64062.java)**
+
 ## 24-04-17
 - [x] **[level #3 49189 - 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_49189.java)**
 
