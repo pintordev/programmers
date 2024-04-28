@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-04-28
+- [x] **[level #3 43238 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43238.java)**
+
 ## 24-04-25
 - [x] **[level #3 42627 - 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_42627.java)**
 
