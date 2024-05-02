@@ -5,6 +5,7 @@ class Solution_12907 {
     public static void main(String[] args) {
 
         Solution_12907 s = new Solution_12907();
+
         int n = 5;
         int[] money = {1, 2, 5};
         int result = 4;
