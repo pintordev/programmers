@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-12
+- [x] **[level #3 43164 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43164.java)**
+
 ## 24-05-02
 - [x] **[level #3 12907 - 거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_12907.java)**
 
