@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-13
+- [x] **[level #3 67259 - 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_67259.java)**
+
 ## 24-05-12
 - [x] **[level #3 43164 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_43164.java)**
 
