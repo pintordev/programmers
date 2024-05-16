@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-16
+- [x] **[level #3 17678 - 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_17678.java)**
+
 ## 24-05-15
 - [x] **[level #3 161988 - 연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_161988.java)**
 
