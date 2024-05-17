@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-17
+- [x] **[level #3 68646 - 풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_68646.java)**
+
 ## 24-05-16
 - [x] **[level #3 17678 - 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_17678.java)**
 
