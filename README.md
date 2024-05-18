@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-18
+- [x] **[level #3 132266 - 부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_132266.java)**
+
 ## 24-05-17
 - [x] **[level #3 68646 - 풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_68646.java)**
 
