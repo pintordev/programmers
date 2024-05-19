@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-19
+- [x] **[level #3 77486 - 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_77486.java)**
+
 ## 24-05-18
 - [x] **[level #3 132266 - 부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/Solution_132266.java)**
 
