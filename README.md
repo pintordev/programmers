@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-21
+- [x] **[level #3 42861 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_42861/Solution_42861.java)**
+
 ## 24-05-20
 - [x] **[level #3 49191 - 순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_49191/Solution_49191.java)**
 
