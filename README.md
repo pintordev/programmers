@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-22
+- [x] **[level #3 60059 - 자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_60059/Solution_60059.java)**
+
 ## 24-05-21
 - [x] **[level #3 42861 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_42861/Solution_42861.java)**
 
