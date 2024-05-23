@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-23
+- [x] **[level #3 72413 - 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_72413/Solution_72413.java)**
+
 ## 24-05-22
 - [x] **[level #3 60059 - 자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_60059/Solution_60059.java)**
 
