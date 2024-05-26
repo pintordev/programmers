@@ -63,10 +63,8 @@ class Row {
     public static void add(Row row) {
         int size = rows.size();
         if (size > 0) {
-            row.addPrev(rows.get(size - 1));
-            row.prev.addNext(row);
-        } else {
-            row.addPrev(null);
+            row.prev = rows.get(size - 1);
+            row.prev.next = row;
         }
         rows.add(row);
     }
@@ -87,14 +85,6 @@ class Row {
     Row next;
     boolean isDeleted;
 
-    public void addPrev(Row prev) {
-        this.prev = prev;
-    }
-
-    public void addNext(Row next) {
-        this.next = next;
-    }
-
     public Row movePrev(int depth) {
         Row toMove = this;
         while (depth-- > 0) {
@@ -113,23 +103,23 @@ class Row {
 
     public Row delete() {
         isDeleted = true;
-        if (this.prev != null) {
-            this.prev.addNext(next);
+        if (prev != null) {
+            prev.next = next;
         }
-        if (this.next != null) {
-            this.next.addPrev(prev);
-            return this.next;
+        if (next != null) {
+            next.prev = prev;
+            return next;
         }
-        return this.prev;
+        return prev;
     }
 
     public void recover() {
         isDeleted = false;
-        if (this.prev != null) {
-            this.prev.addNext(this);
+        if (prev != null) {
+            prev.next = this;
         }
-        if (this.next != null) {
-            this.next.addPrev(this);
+        if (next != null) {
+            next.prev = this;
         }
     }
 }
