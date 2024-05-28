@@ -34,7 +34,6 @@ class Node implements Comparable<Node> {
 
     @Override
     public int compareTo(Node o) {
-        if (y == o.y) return x - o.x;
         return o.y - y;
     }
 
