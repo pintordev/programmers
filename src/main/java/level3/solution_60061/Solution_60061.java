@@ -1,9 +1,6 @@
 package level3.solution_60061;
 
-import java.util.Arrays;
-import java.util.LinkedHashSet;
-import java.util.Objects;
-import java.util.Set;
+import java.util.*;
 
 class Solution_60061 {
 
@@ -25,7 +22,7 @@ class Solution_60061 {
     public static Set<Frame> frames;
 
     public int[][] solution(int n, int[][] build_frame) {
-        frames = new LinkedHashSet<>();
+        frames = new HashSet<>();
 
         for (int[] bf : build_frame) {
             Frame frame = new Frame(bf[0], bf[1], bf[2]);
@@ -41,26 +38,34 @@ class Solution_60061 {
 
     public boolean canBuild(Frame frame) {
         if (frame.type == 0) {
-            if (frame.y == 0
+            return frame.y == 0
                     || frames.contains(new Frame(frame.x, frame.y - 1, 0))
                     || frames.contains(new Frame(frame.x - 1, frame.y, 1))
-                    || frames.contains(new Frame(frame.x, frame.y, 1))) {
-                return true;
-            }
+                    || frames.contains(new Frame(frame.x, frame.y, 1));
         } else {
-            if (frames.contains(new Frame(frame.x, frame.y - 1, 0))
+            return frames.contains(new Frame(frame.x, frame.y - 1, 0))
                     || frames.contains(new Frame(frame.x + 1, frame.y - 1, 0))
-                    || (frames.contains(new Frame(frame.x - 1, frame.y, 1)) && frames.contains(new Frame(frame.x + 1, frame.y, 1)))) {
-                return true;
-            }
+                    || (frames.contains(new Frame(frame.x - 1, frame.y, 1)) && frames.contains(new Frame(frame.x + 1, frame.y, 1)));
         }
-        return false;
     }
 
     public boolean canRemove(Frame frame) {
         frames.remove(frame);
-        for (Frame f : frames) {
-            if (!canBuild(f)) {
+
+        Set<Frame> surroundings = new HashSet<>();
+        if (frame.type == 0) {
+            surroundings.add(new Frame(frame.x, frame.y + 1, 0));
+            surroundings.add(new Frame(frame.x - 1, frame.y + 1, 1));
+            surroundings.add(new Frame(frame.x, frame.y + 1, 1));
+        } else {
+            surroundings.add(new Frame(frame.x, frame.y, 0));
+            surroundings.add(new Frame(frame.x + 1, frame.y, 0));
+            surroundings.add(new Frame(frame.x - 1, frame.y, 1));
+            surroundings.add(new Frame(frame.x + 1, frame.y, 1));
+        }
+
+        for (Frame f : surroundings) {
+            if (frames.contains(f) && !canBuild(f)) {
                 frames.add(frame);
                 return false;
             }
