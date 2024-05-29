@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-29
+- [x] **[level #3 60061 - 기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_60061/Solution_60061.java)**
+
 ## 24-05-28
 - [x] **[level #3 92343 - 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_92343/Solution_92343.java)**
 
