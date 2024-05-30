@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-30
+- [x] **[level #3 1832 - 보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1832/Solution_1832.java)**
+
 ## 24-05-29
 - [x] **[level #3 60061 - 기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_60061/Solution_60061.java)**
 
