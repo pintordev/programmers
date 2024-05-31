@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-01
+- [x] **[level #3 150365 - 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_150365/Solution_150365.java)**
+
 ## 24-05-31
 - [x] **[level #3 72414 - 광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_72414/Solution_72414.java)**
 
