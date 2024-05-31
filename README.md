@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-05-31
+- [x] **[level #3 72414 - 광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_72414/Solution_72414.java)**
+
 ## 24-05-30
 - [x] **[level #3 1832 - 보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1832/Solution_1832.java)**
 
