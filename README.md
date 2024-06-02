@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-02
+- [x] **[level #3 60062 - 외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_60062/Solution_60062.java)**
+
 ## 24-06-01
 - [x] **[level #3 150365 - 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_150365/Solution_150365.java)**
 
