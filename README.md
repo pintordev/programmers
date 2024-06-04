@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-04
+- [x] **[level #3 150367 - 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_150367/Solution_150367.java)**
+
 ## 24-06-03
 - [x] **[level #3 77886 - 110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_77886/Solution_77886.java)**
 
