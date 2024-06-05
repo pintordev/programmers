@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-05
+- [x] **[level #3 70130 - 스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_70130/Solution_70130.java)**
+
 ## 24-06-04
 - [x] **[level #3 150367 - 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_150367/Solution_150367.java)**
 
