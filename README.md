@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-06
+- [x] **[level #3 42895 - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_42895/Solution_42895.java)**
+
 ## 24-06-05
 - [x] **[level #3 70130 - 스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_70130/Solution_70130.java)**
 
