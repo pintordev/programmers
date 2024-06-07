@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-07
+- [x] **[level #3 118669 - 등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_118669/Solution_118669.java)**
+
 ## 24-06-06
 - [x] **[level #3 42895 - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_42895/Solution_42895.java)**
 
