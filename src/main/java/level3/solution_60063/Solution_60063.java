@@ -24,10 +24,10 @@ class Solution_60063 {
     public static boolean[][][] visited;
     public static int[] dr = {-1, 1, 0, 0};
     public static int[] dc = {0, 0, -1, 1};
-    public static int[][] rotateR = {{-1, 1, -1, 0}, {0, 0, -1, 1}};
-    public static int[][] rotateC = {{1, 1, -1, -1}, {1, -1, 0, 0}};
-    public static int[][] checkR = {{-1, 1, 0, 0}, {0, 0, -1, 1}};
-    public static int[][] checkC = {{0, 0, 1, -1}, {1, -1, 0, 0}};
+    public static int[][] rotateR = {{-1, 0, -1, 0}, {0, 0, 1, 1}};
+    public static int[][] rotateC = {{0, 0, 1, 1}, {-1, 0, -1, 0}};
+    public static int[][] checkR = {{0, 1, 0, 1}, {1, 1, -1, -1}};
+    public static int[][] checkC = {{1, 1, -1, -1}, {0, 1, 0, 1}};
 
     public int solution(int[][] board) {
         n = board.length;
@@ -64,7 +64,7 @@ class Solution_60063 {
                 int ndir = ~cur.dir & 1;
 
                 if (!canMove(nr, nc, ndir)) continue;
-                if (board[cur.r + checkR[cur.dir][i]][cur.c + checkC[cur.dir][i]] == 1) continue;
+                if (!canRotate(nr, nc, cur.dir, i)) continue;
                 if (visited[nr][nc][ndir]) continue;
 
                 visited[nr][nc][ndir] = true;
@@ -76,7 +76,6 @@ class Solution_60063 {
     }
 
     public boolean isArrived(Robot cur) {
-        if (cur.r == n - 1 && cur.c == n - 1) return true;
         if (cur.dir == 0 && cur.r == n - 1 && cur.c + 1 == n - 1) return true;
         if (cur.dir == 1 && cur.r + 1 == n - 1 && cur.c == n - 1) return true;
         return false;
@@ -88,6 +87,10 @@ class Solution_60063 {
         if (dir == 0 && (nc + 1 >= n || board[nr][nc + 1] == 1)) return false;
         if (dir == 1 && (nr + 1 >= n || board[nr + 1][nc] == 1)) return false;
         return true;
+    }
+
+    public boolean canRotate(int nr, int nc, int dir, int i) {
+        return board[nr + checkR[dir][i]][nc + checkC[dir][i]] == 0;
     }
 }
 
