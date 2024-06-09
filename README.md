@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-09
+- [x] **[level #3 60063 - 블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_60063/Solution_60063.java)**
+
 ## 24-06-08
 - [x] **[level #3 12920 - 선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_12920/Solution_12920.java)**
 
