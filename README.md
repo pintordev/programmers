@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-11
+- [x] **[level #3 76503 - 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_76503/Solution_76503.java)**
+
 ## 24-06-10
 - [x] **[level #3 87694 - 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_87694/Solution_87694.java)**
 
