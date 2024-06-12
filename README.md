@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-12
+- [x] **[level #3 150366 - 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_150366/Solution_150366.java)**
+
 ## 24-06-11
 - [x] **[level #3 76503 - 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_76503/Solution_76503.java)**
 
