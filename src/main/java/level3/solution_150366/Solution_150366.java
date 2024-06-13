@@ -68,7 +68,7 @@ class Cell {
 
     public static void update(int r, int c, String value) {
         int idx = rcToIdx(r, c);
-        table[idx].value = value;
+        find(table[idx]).value = value;
     }
 
     public static void update(String value1, String value2) {
@@ -81,48 +81,77 @@ class Cell {
         int idx1 = rcToIdx(r1, c1);
         int idx2 = rcToIdx(r2, c2);
 
-        Cell root1 = table[idx1];
-        Cell root2 = table[idx2];
+        Cell root1 = find(table[idx1]);
+        Cell root2 = find(table[idx2]);
 
-        if (root1 == root2) return;
-
-        root1.value = root1.value.isBlank() ? root2.value : root1.value;
-
-        for (int i = 0; i < 2500; i++) {
-            if (table[i] == root2) table[i] = root1;
-        }
+        union(root1, root2);
     }
 
     public static void unmerge(int r, int c) {
         int idx = rcToIdx(r, c);
-        Cell root = table[idx];
+        Cell root = find(table[idx]);
         table[idx] = new Cell(root.value);
+
+        List<Cell> toUnmerge = new ArrayList<>();
         for (int i = 0; i < 2500; i++) {
-            if (table[i] == root) table[i] = new Cell();
+            if (find(table[i]) == root) toUnmerge.add(table[i]);
+        }
+
+        for (Cell cell : toUnmerge) {
+            cell.parent = cell;
+            cell.rank = 1;
+            cell.value = "";
         }
     }
 
     public static void print(int r, int c) {
         int idx = rcToIdx(r, c);
-        Cell root = table[idx];
+        Cell root = find(table[idx]);
         buffer.add(root.value.isBlank() ? "EMPTY" : root.value);
-    }
-
-    public static String[] flush() {
-        return buffer.toArray(String[]::new);
     }
 
     public static int rcToIdx(int r, int c) {
         return (r - 1) * 50 + c - 1;
     }
 
+    public static Cell find(Cell cell) {
+        if (cell.parent == cell) return cell;
+        return find(cell.parent);
+    }
+
+    public static void union(Cell root1, Cell root2) {
+        if (root1 == root2) return;
+
+        String value = root1.value.isBlank() ? root2.value : root1.value;
+
+        if (root1.rank > root2.rank) {
+            root1.rank += root2.rank;
+            root1.value = value;
+            root2.parent = root1;
+            root2.value = "";
+        } else {
+            root2.rank += root1.rank;
+            root2.value = value;
+            root1.parent = root2;
+            root1.value = "";
+        }
+    }
+
+    public static String[] flush() {
+        return buffer.toArray(String[]::new);
+    }
+
+    public Cell parent;
+    public int rank;
     public String value;
 
     public Cell() {
-        this.value = "";
+        this("");
     }
 
     public Cell(String value) {
+        this.parent = this;
+        this.rank = 1;
         this.value = value;
     }
 }
