@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-13
+- [x] **[level #3 12942 - 최적의 행렬 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12942?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_12942/Solution_12942.java)**
+
 ## 24-06-12
 - [x] **[level #3 150366 - 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_150366/Solution_150366.java)**
 
