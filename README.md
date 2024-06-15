@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-15
+- [x] **[level #3 118668 - 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_118668/Solution_118668.java)**
+
 ## 24-06-14
 - [x] **[level #3 131129 - 카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_131129/Solution_131129.java)**
 
