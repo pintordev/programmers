@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-17
+- [x] **[level #3 258705 - 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_258705/Solution_258705.java)**
+
 ## 24-06-16
 - [x] **[level #3 131703 - 2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_131703/Solution_131703.java)**
 
