@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-18
+- [x] **[level #3 17676 - 추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_17676/Solution_17676.java)**
+
 ## 24-06-17
 - [x] **[level #3 258705 - 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_258705/Solution_258705.java)**
 
