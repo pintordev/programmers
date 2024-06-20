@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-20
+- [x] **[level #3 87391 - 공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_87391/Solution_87391.java)**
+
 ## 24-06-19
 - [x] **[level #3 42893 - 매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_42893/Solution_42893.java)**
 
