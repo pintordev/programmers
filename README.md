@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-22
+- [x] **[level #3 72415 - 카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_72415/Solution_72415.java)**
+
 ## 24-06-21
 - [x] **[level #3 138475 - 억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_138475/Solution_138475.java)**
 
