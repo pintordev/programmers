@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-23
+- [x] **[level #3 133500 - 등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_133500/Solution_133500.java)**
+
 ## 24-06-22
 - [x] **[level #3 72415 - 카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_72415/Solution_72415.java)**
 
