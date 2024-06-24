@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-24
+- [x] **[level #3 1833 - 캠핑](https://school.programmers.co.kr/learn/courses/30/lessons/1833?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1833/Solution_1833.java)**
+
 ## 24-06-23
 - [x] **[level #3 133500 - 등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_133500/Solution_133500.java)**
 
