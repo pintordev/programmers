@@ -1,4 +1,4 @@
-package level3.solution_number;
+package level3.solution_1833;
 
 import java.util.*;
 
