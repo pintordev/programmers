@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-26
+- [x] **[level #3 258709 - 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_258709/Solution_258709.java)**
+
 ## 24-06-25
 - [x] **[level #3 136797 - 숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_136797/Solution_136797.java)**
 
