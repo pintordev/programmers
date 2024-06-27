@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-27
+- [x] **[level #3 258707 - n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258709?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_258709/Solution_258709.java)**
+
 ## 24-06-26
 - [x] **[level #3 258709 - 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_258709/Solution_258709.java)**
 
