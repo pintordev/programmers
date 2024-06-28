@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-28
+- [x] **[level #3 1836 - 리틀 프렌즈 사천성](https://school.programmers.co.kr/learn/courses/30/lessons/1836?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1836/Solution_1836.java)**
+
 ## 24-06-27
 - [x] **[level #3 258707 - n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258709?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_258709/Solution_258709.java)**
 
