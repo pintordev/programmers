@@ -4,8 +4,11 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-06-30
+- [x] **[level #3 1837 - GPS](https://school.programmers.co.kr/learn/courses/30/lessons/1837?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1837/Solution_1837.java)**
+
 ## 24-06-29
-- [x] **[level #3 86053 - 금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/8605386053guage=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_86053/Solution_86053.java)**
+- [x] **[level #3 86053 - 금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_86053/Solution_86053.java)**
 
 ## 24-06-28
 - [x] **[level #3 1836 - 리틀 프렌즈 사천성](https://school.programmers.co.kr/learn/courses/30/lessons/1836?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1836/Solution_1836.java)**
