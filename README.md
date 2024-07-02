@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-02
+- [x] **[level #3 250134 - 수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_250134/Solution_250134.java)**
+
 ## 24-07-01
 - [x] **[level #3 84021 - 퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_84021/Solution_84021.java)**
 
