@@ -51,66 +51,40 @@ class Solution_250134 {
         visited[srr][src][0] = true;
         visited[sbr][sbc][1] = true;
         cnt = Integer.MAX_VALUE;
-        dfs(new Maze(srr, src, sbr, sbc, 0));
+        dfs(srr, src, sbr, sbc, 0);
         return cnt == Integer.MAX_VALUE ? 0 : cnt;
     }
 
-    public void dfs(Maze cur) {
-        if (cur.cnt >= cnt) return;
+    public void dfs(int crr, int crc, int cbr, int cbc, int cnt) {
+        if (cnt >= this.cnt) return;
 
-        boolean red = maze[cur.rr][cur.rc] == 3;
-        boolean blue = maze[cur.br][cur.bc] == 4;
+        boolean red = maze[crr][crc] == 3;
+        boolean blue = maze[cbr][cbc] == 4;
 
         if (red && blue) {
-            cnt = Math.min(cnt, cur.cnt);
+            this.cnt = Math.min(this.cnt, cnt);
+            return;
         }
-        else if (!red && !blue) {
-            for (int i = 0; i < 4; i++) {
-                int nrr = cur.rr + dr[i];
-                int nrc = cur.rc + dc[i];
 
-                if (!canMove(nrr, nrc, 0)) continue;
+        for (int i = 0; i < 4; i++) {
+            int nrr = red ? crr : crr + dr[i];
+            int nrc = red ? crc : crc + dc[i];
 
-                for (int j = 0; j < 4; j++) {
-                    int nbr = cur.br + dr[j];
-                    int nbc = cur.bc + dc[j];
+            if (!red && !canMove(nrr, nrc, 0)) continue;
 
-                    if (!canMove(nbr, nbc, 1)) continue;
-                    if (cur.rr == nbr && cur.rc == nbc && cur.br == nrr && cur.bc == nrc) continue;
-                    if (nrr == nbr && nrc == nbc) continue;
-
-                    visited[nrr][nrc][0] = true;
-                    visited[nbr][nbc][1] = true;
-                    dfs(new Maze(nrr, nrc, nbr, nbc, cur.cnt + 1));
-                    visited[nrr][nrc][0] = false;
-                    visited[nbr][nbc][1] = false;
-                }
-            }
-        }
-        else if (red && !blue) {
             for (int j = 0; j < 4; j++) {
-                int nbr = cur.br + dr[j];
-                int nbc = cur.bc + dc[j];
+                int nbr = blue ? cbr : cbr + dr[j];
+                int nbc = blue ? cbc : cbc + dc[j];
 
-                if (!canMove(nbr, nbc, 1)) continue;
-                if (cur.rr == nbr && cur.rc == nbc) continue;
-
-                visited[nbr][nbc][1] = true;
-                dfs(new Maze(cur.rr, cur.rc, nbr, nbc, cur.cnt + 1));
-                visited[nbr][nbc][1] = false;
-            }
-        }
-        else if (!red && blue) {
-            for (int i = 0; i < 4; i++) {
-                int nrr = cur.rr + dr[i];
-                int nrc = cur.rc + dc[i];
-
-                if (!canMove(nrr, nrc, 0)) continue;
-                if (cur.br == nrr && cur.bc == nrc) continue;
+                if (!blue && !canMove(nbr, nbc, 1)) continue;
+                if (nrr == nbr && nrc == nbc) continue;
+                if (crr == nbr && crc == nbc && cbr == nrr && cbc == nrc) continue;
 
                 visited[nrr][nrc][0] = true;
-                dfs(new Maze(nrr, nrc, cur.br, cur.bc, cur.cnt + 1));
+                visited[nbr][nbc][1] = true;
+                dfs(nrr, nrc, nbr, nbc, cnt + 1);
                 visited[nrr][nrc][0] = false;
+                visited[nbr][nbc][1] = false;
             }
         }
     }
@@ -120,21 +94,5 @@ class Solution_250134 {
         if (maze[nr][nc] == 5) return false;
         if (visited[nr][nc][color]) return false;
         return true;
-    }
-}
-
-class Maze {
-    int rr;
-    int rc;
-    int br;
-    int bc;
-    int cnt;
-
-    public Maze(int rr, int rc, int br, int bc, int cnt) {
-        this.rr = rr;
-        this.rc = rc;
-        this.br = br;
-        this.bc = bc;
-        this.cnt = cnt;
     }
 }
