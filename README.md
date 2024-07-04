@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-04
+- [x] **[level #3 214288 - 상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_214288/Solution_214288.java)**
+
 ## 24-07-03
 - [x] **[level #3 92345 - 사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_92345/Solution_92345.java)**
 
