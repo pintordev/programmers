@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-05
+- [x] **[level #3 131702 - 고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_131702/Solution_131702.java)**
+
 ## 24-07-04
 - [x] **[level #3 214288 - 상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_214288/Solution_214288.java)**
 
