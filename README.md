@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-06
+- [x] **[level #3 181186 - 아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_181186/Solution_181186.java)**
+
 ## 24-07-05
 - [x] **[level #3 131702 - 고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_131702/Solution_131702.java)**
 
