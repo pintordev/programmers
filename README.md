@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-07
+- [x] **[level #3 1838 - 몸짱 트레이너 라이언의 고민](https://school.programmers.co.kr/learn/courses/30/lessons/1838?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1838/Solution_1838.java)**
+
 ## 24-07-06
 - [x] **[level #3 181186 - 아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_181186/Solution_181186.java)**
 

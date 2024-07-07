@@ -53,7 +53,8 @@ class Solution_181186 {
         memo[4] = 23;
         memo[5] = 62;
         for (int i = 6; i <= n; i++) {
-            memo[i] = (memo[i - 1] + 2 * memo[i -  2] + 6 * memo[i - 3] + memo[i - 4] - memo[i - 6] + mod) % mod;
+            memo[i] = (memo[i - 1] + 2 * memo[i - 2] + 6 * memo[i - 3]
+                    + memo[i - 4] - memo[i - 6] + mod) % mod;
         }
         return (int) memo[n];
     }
