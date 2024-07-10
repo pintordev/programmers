@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-10
+- [x] **[level #4 42897 - 도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_42897/Solution_42897.java)**
+
 ## 24-07-09
 - [x] **[level #3 1830 - 브라이언의 고민](https://school.programmers.co.kr/learn/courses/30/lessons/1830?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level3/solution_1830/Solution_1830.java)**
 
