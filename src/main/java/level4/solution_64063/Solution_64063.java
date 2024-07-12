@@ -35,7 +35,7 @@ class Solution_64063 {
         if (value == null) return rm;
 
         long nextRm = reserve(value);
-        reserved.put(rm, nextRm);
+        reserved.put(rm, nextRm + 1);
         return nextRm;
     }
 }
