@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-12
+- [x] **[level #4 64063 - 호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_64063/Solution_64063.java)**
+
 ## 24-07-11
 - [x] **[level #4 42891 - 무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_42891/Solution_42891.java)**
 
