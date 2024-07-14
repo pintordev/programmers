@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-14
+- [x] **[level #4 17685 - 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_17685/Solution_17685.java)**
+
 ## 24-07-13
 - [x] **[level #4 12929 - 올바른 괄호의 갯수](https://school.programmers.co.kr/learn/courses/30/lessons/12929?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_12929/Solution_12929.java)**
 
