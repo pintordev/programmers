@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-15
+- [x] **[level #4 49995 - 쿠키 구입](https://school.programmers.co.kr/learn/courses/30/lessons/49995?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_49995/Solution_49995.java)**
+
 ## 24-07-14
 - [x] **[level #4 17685 - 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_17685/Solution_17685.java)**
 
