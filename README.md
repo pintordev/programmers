@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-18
+- [x] **[level #4 60060 - 가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_60060/Solution_60060.java)**
+
 ## 24-07-16
 - [x] **[level #4 43236 - 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_43236/Solution_43236.java)**
 
