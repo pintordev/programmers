@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-22
+- [x] **[level #4 12984 - 지형 편집](https://school.programmers.co.kr/learn/courses/30/lessons/12984?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_12984/Solution_12984.java)**
+
 ## 24-07-21
 - [x] **[level #4 42894 - 블록 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42894?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_42894/Solution_42894.java)**
 
