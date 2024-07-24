@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-24
+- [x] **[level #4 67260 - 동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_67260/Solution_67260.java)**
+
 ## 24-07-22
 - [x] **[level #4 12984 - 지형 편집](https://school.programmers.co.kr/learn/courses/30/lessons/12984?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_12984/Solution_12984.java)**
 
