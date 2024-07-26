@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-26
+- [x] **[level #4 1843 - 사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_1843/Solution_1843.java)**
+
 ## 24-07-25
 - [x] **[level #4 68937 - 트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_68937/Solution_68937.java)**
 
