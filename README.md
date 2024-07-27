@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-27
+- [x] **[level #4 62050 - 지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_62050/Solution_62050.java)**
+
 ## 24-07-26
 - [x] **[level #4 1843 - 사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_1843/Solution_1843.java)**
 
