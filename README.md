@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-28
+- [x] **[level #4 118670 - 행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_118670/Solution_118670.java)**
+
 ## 24-07-27
 - [x] **[level #4 62050 - 지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_62050/Solution_62050.java)**
 
