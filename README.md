@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-29
+- [x] **[level #4 72416 - 매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_72416/Solution_72416.java)**
+
 ## 24-07-28
 - [x] **[level #4 118670 - 행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_118670/Solution_118670.java)**
 
