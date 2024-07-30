@@ -1,4 +1,4 @@
-package level4.solution_number;
+package level4.solution_72416;
 
 import java.util.ArrayList;
 import java.util.List;

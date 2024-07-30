@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-30
+- [x] **[level #4 1831 - 4단 고음](https://school.programmers.co.kr/learn/courses/30/lessons/1831?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_1831/Solution_1831.java)**
+
 ## 24-07-29
 - [x] **[level #4 72416 - 매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_72416/Solution_72416.java)**
 
