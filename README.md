@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-07-31
+- [x] **[level #4 81304 - 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_81304/Solution_81304.java)**
+
 ## 24-07-30
 - [x] **[level #4 1831 - 4단 고음](https://school.programmers.co.kr/learn/courses/30/lessons/1831?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_1831/Solution_1831.java)**
 
