@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-08-02
+- [x] **[level #4 1839 - 튜브의 소개팅](https://school.programmers.co.kr/learn/courses/30/lessons/1839?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_1839/Solution_1839.java)**
+
 ## 24-08-01
 - [x] **[level #4 140105 - 쌍둥이 빌딩 숲](https://school.programmers.co.kr/learn/courses/30/lessons/140105?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_140105/Solution_140105.java)**
 
