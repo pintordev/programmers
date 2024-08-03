@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-08-03
+- [x] **[level #4 150364 - 1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_150364/Solution_150364.java)**
+
 ## 24-08-02
 - [x] **[level #4 1839 - 튜브의 소개팅](https://school.programmers.co.kr/learn/courses/30/lessons/1839?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_1839/Solution_1839.java)**
 
