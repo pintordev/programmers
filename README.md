@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-08-04
+- [x] **[level #4 68647 - 짝수 행 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68647?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_68647/Solution_68647.java)**
+
 ## 24-08-03
 - [x] **[level #4 150364 - 1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_150364/Solution_150364.java)**
 
