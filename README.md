@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-08-05
+- [x] **[level #4 214290 - 경사로의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/214290?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_214290/Solution_214290.java)**
+
 ## 24-08-04
 - [x] **[level #4 68647 - 짝수 행 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68647?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_68647/Solution_68647.java)**
 
