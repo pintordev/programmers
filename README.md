@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 24-08-06
+- [x] **[level #4 86054 - 안티세포](https://school.programmers.co.kr/learn/courses/30/lessons/86054?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_86054/Solution_86054.java)**
+
 ## 24-08-05
 - [x] **[level #4 214290 - 경사로의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/214290?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_214290/Solution_214290.java)**
 
