@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 25-02-25
+- [x] **[level #2 389479 - 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_389479/Solution_389479.java)**
+
 ## 24-08-06
 - [x] **[level #4 86054 - 안티세포](https://school.programmers.co.kr/learn/courses/30/lessons/86054?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level4/solution_86054/Solution_86054.java)**
 
