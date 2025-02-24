@@ -30,59 +30,14 @@ class Solution_86054 {
     public static int mod = 1_000_000_007;
 
     public int count(int[] b) {
-        Count[][] counts = new Count[b.length][b.length];
-        for (int i = 0; i < b.length; i++) {
-            long targetSum = b[i];
-            if (i == 0) {
-                counts[i][i] = new Count(targetSum, 1, i);
-            } else {
-                int totalCount = 0;
-                for (int j = 0; j < i; j++) {
-                    if (counts[i - 1][j] != null) {
-                        totalCount = sum(totalCount, counts[i - 1][j].count);
-                    }
-                }
-                counts[i][i] = new Count(targetSum, totalCount, i);
-            }
+        int bLen = b.length;
 
-            while (true) {
-                targetSum *= 2;
-                Count lastCount = counts[i][i];
-                if (lastCount == null) break;
-
-                int prevOffset = lastCount.offset - 1;
-                if (prevOffset < 0) break;
-
-                Count count = counts[prevOffset][prevOffset];
-                if (count == null) break;
-
-                counts[i][i] = new Count(targetSum, count.count, count.offset);
-            }
+        long[] ps = new long[bLen];
+        ps[0] = b[0];
+        for (int i = 1; i < bLen; i++) {
+            ps[i] = ps[i - 1] + b[i];
         }
 
-        int finalCount = 0;
-        for (int i = 0; i < b.length; i++) {
-            if (counts[b.length - 1][i] != null) {
-                finalCount = sum(finalCount, counts[b.length - 1][i].count);
-            }
-        }
-        return finalCount;
-    }
-
-    public int sum(int a, int b) {
-        long sum = (long) a + b;
-        return (int) (sum % mod);
-    }
-}
-
-class Count {
-    long sum;
-    int count;
-    int offset;
-
-    public Count(long sum, int count, int offset) {
-        this.sum = sum;
-        this.count = count;
-        this.offset = offset;
+        return -1;
     }
 }
