@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 25-04-04
+- [x] **[level #2 131127 - 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_131127/Solution_131127.java)**
+
 ## 25-03-01
 - [x] **[level #2 17686 - 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_17686/Solution_17686.java)**
 
