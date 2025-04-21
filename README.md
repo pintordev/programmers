@@ -4,6 +4,9 @@
 >- **Programmers Level Test Solutions**
 >- **Practice Log Repository**
 
+## 25-04-21
+- [x] **[level #2 42584 - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_42584/Solution_42584.java)**
+
 ## 25-04-06
 - [x] **[level #2 12949 - 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949?language=java) [[코드 보기]](https://github.com/pintordev/programmers/blob/main/src/main/java/level2/solution_12949/Solution_12949.java)**
 
